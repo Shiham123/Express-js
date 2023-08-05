@@ -1,0 +1,21 @@
+{
+  "name": "age-calculator",
+  "version": "1.0.0",
+  "description": "demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "expressjs"
+  ],
+  "author": "shiham",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsdom": "^22.1.0",
+    "nodemon": "^3.0.1"
+  }
+}
